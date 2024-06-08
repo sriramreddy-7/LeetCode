@@ -11,5 +11,5 @@ class Solution:
                 return divide(s)
             if s<=9:
                 return s
-        r=divide(num)
-        return r
+        return divide(num)
+       
