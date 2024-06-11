@@ -6,12 +6,6 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 
 - [About](#about)
 - [Structure](#structure)
-- [Problems](#problems)
-  - [Easy](#easy)
-  - [Medium](#medium)
-  - [Hard](#hard)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
