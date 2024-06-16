@@ -7,5 +7,4 @@ class Solution:
                 return 1
             else:
                 return f(n-1)+f(n-2)
-        r=f(n)
-        return r
+        return f(n)
