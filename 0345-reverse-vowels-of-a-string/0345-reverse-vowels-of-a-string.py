@@ -1,8 +1,8 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
+        if s=="":
+            return s
         r=[_ for _ in s]
-        if r==[]:
-            return ""
         i=0
         j=len(s)-1
         s=""
