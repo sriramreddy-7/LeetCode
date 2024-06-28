@@ -20,3 +20,11 @@ The repository is organized as follows:
   - `README.md` file with the problem statement and explanation of the solution.
   - `solution.py`  file with the actual code.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1797-goal-parser-interpretation](https://github.com/sriramreddy-7/LeetCode/tree/master/1797-goal-parser-interpretation) |
+<!---LeetCode Topics End-->
