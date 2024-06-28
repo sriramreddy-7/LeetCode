@@ -4,8 +4,8 @@ class Solution:
         c=0
         for i in s:
             if i=="(":
-                r.append(c)
-                c=0
+                c=c+1
             elif i==")":
-                c=c+1 
-        return c 
+                c=c-1
+            r.append(c) 
+        return max(r)
