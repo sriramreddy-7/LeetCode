@@ -1,7 +1,5 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        if s=="":
-            return s
         r=[_ for _ in s]
         i=0
         j=len(s)-1
