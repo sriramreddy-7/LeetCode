@@ -28,6 +28,7 @@ The repository is organized as follows:
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sriramreddy-7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/sriramreddy-7/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -63,4 +64,12 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Math
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
