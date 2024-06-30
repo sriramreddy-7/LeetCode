@@ -30,6 +30,7 @@ The repository is organized as follows:
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sriramreddy-7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
 | [1797-goal-parser-interpretation](https://github.com/sriramreddy-7/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
@@ -41,6 +42,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
+| [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Stack
