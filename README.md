@@ -37,6 +37,7 @@ The repository is organized as follows:
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sriramreddy-7/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/sriramreddy-7/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
