@@ -51,6 +51,7 @@ The repository is organized as follows:
 | [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ The repository is organized as follows:
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sriramreddy-7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Counting
 |  |
