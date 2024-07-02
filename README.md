@@ -28,6 +28,7 @@ The repository is organized as follows:
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
+| [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1542-consecutive-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1542-consecutive-characters) |
@@ -50,6 +51,7 @@ The repository is organized as follows:
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
+| [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1293-three-consecutive-odds](https://github.com/sriramreddy-7/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
@@ -74,6 +76,7 @@ The repository is organized as follows:
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
+| [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -94,4 +97,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
