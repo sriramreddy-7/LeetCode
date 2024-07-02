@@ -47,6 +47,7 @@ The repository is organized as follows:
 ## Array
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1293-three-consecutive-odds](https://github.com/sriramreddy-7/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -69,6 +70,7 @@ The repository is organized as follows:
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
