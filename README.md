@@ -68,6 +68,7 @@ The repository is organized as follows:
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sriramreddy-7/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/sriramreddy-7/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Two Pointers
 |  |
@@ -110,4 +111,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sriramreddy-7/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
