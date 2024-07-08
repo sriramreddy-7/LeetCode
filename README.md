@@ -43,6 +43,7 @@ The repository is organized as follows:
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sriramreddy-7/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/sriramreddy-7/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/sriramreddy-7/LeetCode/tree/master/2401-count-asterisks) |
@@ -73,6 +74,7 @@ The repository is organized as follows:
 ## Simulation
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sriramreddy-7/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/sriramreddy-7/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Two Pointers
