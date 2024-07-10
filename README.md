@@ -38,6 +38,7 @@ The repository is organized as follows:
 | [1797-goal-parser-interpretation](https://github.com/sriramreddy-7/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -94,6 +95,7 @@ The repository is organized as follows:
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
