@@ -50,6 +50,7 @@ The repository is organized as follows:
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/sriramreddy-7/LeetCode/tree/master/2401-count-asterisks) |
 | [2886-faulty-keyboard](https://github.com/sriramreddy-7/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sriramreddy-7/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +104,7 @@ The repository is organized as follows:
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sriramreddy-7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sriramreddy-7/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Counting
 |  |
 | ------- |
