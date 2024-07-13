@@ -15,22 +15,17 @@ class Solution:
                 for i in range(1,n+1):
                     result=sum_num(i)
                     if result not in d:
-                        arr=[]
-                        arr.append(i)
-                        d[result]=arr
+                        d[result]=1
                     else:
-                        e=d[result]
-                        e.append(i)
-                        d[result]=e
+                        d[result]+=1
                 size=0
                 c=0
                 for k,v in d.items():
-                    if len(v)>size:
-                        size=len(v)
+                    if v>size:
+                        size=v
                         c=0
                         c=c+1
-                    elif len(v)==size:
+                    elif v==size:
                         c=c+1
                 return c
-
         return check(n)
