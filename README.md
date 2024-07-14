@@ -41,6 +41,7 @@ The repository is organized as follows:
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1954-replace-all-digits-with-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
