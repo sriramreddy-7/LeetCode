@@ -51,6 +51,7 @@ The repository is organized as follows:
 | [2361-calculate-digit-sum-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/sriramreddy-7/LeetCode/tree/master/2401-count-asterisks) |
+| [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2886-faulty-keyboard](https://github.com/sriramreddy-7/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sriramreddy-7/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Array
@@ -72,6 +73,7 @@ The repository is organized as follows:
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
+| [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -111,6 +113,7 @@ The repository is organized as follows:
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
+| [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
