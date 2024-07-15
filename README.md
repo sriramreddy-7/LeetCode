@@ -74,6 +74,7 @@ The repository is organized as follows:
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -90,6 +91,7 @@ The repository is organized as follows:
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sriramreddy-7/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2886-faulty-keyboard](https://github.com/sriramreddy-7/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@ The repository is organized as follows:
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -149,6 +152,7 @@ The repository is organized as follows:
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
 ## Linked List
 |  |
@@ -162,4 +166,12 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
