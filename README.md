@@ -37,6 +37,7 @@ The repository is organized as follows:
 | [1542-consecutive-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1542-consecutive-characters) |
 | [1660-thousand-separator](https://github.com/sriramreddy-7/LeetCode/tree/master/1660-thousand-separator) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sriramreddy-7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
 | [1797-goal-parser-interpretation](https://github.com/sriramreddy-7/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -111,6 +112,7 @@ The repository is organized as follows:
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/sriramreddy-7/LeetCode/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
