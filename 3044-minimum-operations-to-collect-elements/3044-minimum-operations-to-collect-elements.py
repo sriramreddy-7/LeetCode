@@ -7,9 +7,7 @@ class Solution:
                 return True
             else:
                 return False
-
         ca=set()
-
         def find():
             c = 0
             for i in range(len(nums)-1,-1,-1):
