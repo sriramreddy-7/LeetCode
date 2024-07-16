@@ -64,6 +64,7 @@ The repository is organized as follows:
 | [0035-search-insert-position](https://github.com/sriramreddy-7/LeetCode/tree/master/0035-search-insert-position) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/sriramreddy-7/LeetCode/tree/master/0575-distribute-candies) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0965-unique-email-addresses](https://github.com/sriramreddy-7/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -108,6 +109,7 @@ The repository is organized as follows:
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/sriramreddy-7/LeetCode/tree/master/0575-distribute-candies) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0965-unique-email-addresses](https://github.com/sriramreddy-7/LeetCode/tree/master/0965-unique-email-addresses) |
