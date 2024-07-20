@@ -79,6 +79,7 @@ The repository is organized as follows:
 | [1392-find-the-difference-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sriramreddy-7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -98,6 +99,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sriramreddy-7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sriramreddy-7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -200,4 +202,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sriramreddy-7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
