@@ -97,6 +97,7 @@ The repository is organized as follows:
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sriramreddy-7/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3324-split-the-array](https://github.com/sriramreddy-7/LeetCode/tree/master/3324-split-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +150,7 @@ The repository is organized as follows:
 | [2824-check-if-the-number-is-fascinating](https://github.com/sriramreddy-7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sriramreddy-7/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3324-split-the-array](https://github.com/sriramreddy-7/LeetCode/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sriramreddy-7/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Counting
 |  |
@@ -159,6 +161,7 @@ The repository is organized as follows:
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3324-split-the-array](https://github.com/sriramreddy-7/LeetCode/tree/master/3324-split-the-array) |
 ## Math
 |  |
 | ------- |
