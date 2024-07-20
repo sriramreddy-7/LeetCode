@@ -93,6 +93,7 @@ The repository is organized as follows:
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2777-find-the-distinct-difference-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sriramreddy-7/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -144,6 +145,7 @@ The repository is organized as follows:
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2777-find-the-distinct-difference-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sriramreddy-7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sriramreddy-7/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
