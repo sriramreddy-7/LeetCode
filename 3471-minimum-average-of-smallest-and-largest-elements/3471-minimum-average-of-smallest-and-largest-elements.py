@@ -1,7 +1,6 @@
 class Solution:
     def minimumAverage(self, nums: List[int]) -> float:
         nums.sort()
-        d={}
         j=len(nums)-1
         averages=[]
         i=0
