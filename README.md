@@ -99,6 +99,7 @@ The repository is organized as follows:
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sriramreddy-7/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3324-split-the-array](https://github.com/sriramreddy-7/LeetCode/tree/master/3324-split-the-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +120,7 @@ The repository is organized as follows:
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriramreddy-7/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +189,7 @@ The repository is organized as follows:
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
 | ------- |
