@@ -67,6 +67,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sriramreddy-7/LeetCode/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/sriramreddy-7/LeetCode/tree/master/0575-distribute-candies) |
@@ -124,6 +125,7 @@ The repository is organized as follows:
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/sriramreddy-7/LeetCode/tree/master/0575-distribute-candies) |
@@ -159,6 +161,7 @@ The repository is organized as follows:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/sriramreddy-7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -185,6 +188,7 @@ The repository is organized as follows:
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -222,4 +226,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
