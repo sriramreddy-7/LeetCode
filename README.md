@@ -100,6 +100,7 @@ The repository is organized as follows:
 | [2902-max-pair-sum-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sriramreddy-7/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3324-split-the-array](https://github.com/sriramreddy-7/LeetCode/tree/master/3324-split-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -222,6 +223,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
