@@ -60,6 +60,7 @@ The repository is organized as follows:
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/sriramreddy-7/LeetCode/tree/master/2401-count-asterisks) |
 | [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
+| [2502-sort-the-people](https://github.com/sriramreddy-7/LeetCode/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/sriramreddy-7/LeetCode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sriramreddy-7/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -92,6 +93,7 @@ The repository is organized as follows:
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2502-sort-the-people](https://github.com/sriramreddy-7/LeetCode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2777-find-the-distinct-difference-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
@@ -149,6 +151,7 @@ The repository is organized as follows:
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2502-sort-the-people](https://github.com/sriramreddy-7/LeetCode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sriramreddy-7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2777-find-the-distinct-difference-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
@@ -193,6 +196,7 @@ The repository is organized as follows:
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
+| [2502-sort-the-people](https://github.com/sriramreddy-7/LeetCode/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
