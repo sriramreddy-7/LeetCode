@@ -27,6 +27,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/sriramreddy-7/LeetCode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriramreddy-7/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
@@ -123,6 +124,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/sriramreddy-7/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriramreddy-7/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -238,4 +240,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sriramreddy-7/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
