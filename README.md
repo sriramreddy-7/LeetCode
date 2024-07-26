@@ -81,6 +81,7 @@ The repository is organized as follows:
 | [1241-decompress-run-length-encoded-list](https://github.com/sriramreddy-7/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/sriramreddy-7/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sriramreddy-7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -171,6 +172,7 @@ The repository is organized as follows:
 | ------- |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/sriramreddy-7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -197,6 +199,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -226,6 +229,7 @@ The repository is organized as follows:
 ## Bit Manipulation
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Monotonic Stack
