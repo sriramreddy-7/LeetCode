@@ -91,6 +91,7 @@ The repository is organized as follows:
 | [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sriramreddy-7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2181-smallest-index-with-equal-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
@@ -121,6 +122,7 @@ The repository is organized as follows:
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sriramreddy-7/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
