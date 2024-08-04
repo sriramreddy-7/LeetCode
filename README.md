@@ -97,6 +97,7 @@ The repository is organized as follows:
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2181-smallest-index-with-equal-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -125,6 +126,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sriramreddy-7/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -269,4 +271,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sriramreddy-7/LeetCode/tree/master/0392-is-subsequence) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
