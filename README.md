@@ -206,6 +206,7 @@ The repository is organized as follows:
 | [1500-count-largest-group](https://github.com/sriramreddy-7/LeetCode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2752-sum-multiples](https://github.com/sriramreddy-7/LeetCode/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sriramreddy-7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Sliding Window
 |  |
