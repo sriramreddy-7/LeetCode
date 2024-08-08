@@ -83,6 +83,7 @@ The repository is organized as follows:
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/sriramreddy-7/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/sriramreddy-7/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/sriramreddy-7/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/sriramreddy-7/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -157,6 +158,7 @@ The repository is organized as follows:
 | [0965-unique-email-addresses](https://github.com/sriramreddy-7/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/sriramreddy-7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/sriramreddy-7/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/sriramreddy-7/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -193,6 +195,7 @@ The repository is organized as follows:
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sriramreddy-7/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/sriramreddy-7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/sriramreddy-7/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -227,6 +230,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/sriramreddy-7/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
