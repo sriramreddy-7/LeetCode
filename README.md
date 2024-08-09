@@ -30,6 +30,7 @@ The repository is organized as follows:
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sriramreddy-7/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sriramreddy-7/LeetCode/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriramreddy-7/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
@@ -151,6 +152,7 @@ The repository is organized as follows:
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sriramreddy-7/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/sriramreddy-7/LeetCode/tree/master/0575-distribute-candies) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
@@ -194,6 +196,7 @@ The repository is organized as follows:
 | ------- |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sriramreddy-7/LeetCode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/sriramreddy-7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/sriramreddy-7/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -230,6 +233,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/sriramreddy-7/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -258,6 +262,7 @@ The repository is organized as follows:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
@@ -286,4 +291,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
