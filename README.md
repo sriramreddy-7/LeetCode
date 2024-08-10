@@ -74,6 +74,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriramreddy-7/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -251,6 +252,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriramreddy-7/LeetCode/tree/master/0035-search-insert-position) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sriramreddy-7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ordered Set
