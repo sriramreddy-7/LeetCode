@@ -124,6 +124,7 @@ The repository is organized as follows:
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sriramreddy-7/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3324-split-the-array](https://github.com/sriramreddy-7/LeetCode/tree/master/3324-split-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sriramreddy-7/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Stack
 |  |
 | ------- |
@@ -226,6 +227,7 @@ The repository is organized as follows:
 | [2752-sum-multiples](https://github.com/sriramreddy-7/LeetCode/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sriramreddy-7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3371-harshad-number](https://github.com/sriramreddy-7/LeetCode/tree/master/3371-harshad-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sriramreddy-7/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sliding Window
 |  |
 | ------- |
