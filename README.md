@@ -311,4 +311,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sriramreddy-7/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
