@@ -221,6 +221,7 @@ The repository is organized as follows:
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/sriramreddy-7/LeetCode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/1635-number-of-good-pairs) |
