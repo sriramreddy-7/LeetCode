@@ -1,7 +1,6 @@
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        r=[]
-        d={}
+        r,d=[],{}
         count=0
         for i in nums1:
             if i not in d:
@@ -29,5 +28,4 @@ class Solution:
                 r.extend([k]*v[1])
             else:
                 r.extend([k]*min(v))
-
         return r
