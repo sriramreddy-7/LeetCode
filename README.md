@@ -270,6 +270,7 @@ The repository is organized as follows:
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sriramreddy-7/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Binary Search
 |  |
@@ -340,4 +341,8 @@ The repository is organized as follows:
 | [1258-article-views-i](https://github.com/sriramreddy-7/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/sriramreddy-7/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sriramreddy-7/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
