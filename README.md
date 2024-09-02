@@ -109,6 +109,7 @@ The repository is organized as follows:
 | [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2181-smallest-index-with-equal-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -142,6 +143,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sriramreddy-7/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -351,4 +353,8 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
