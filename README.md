@@ -34,6 +34,7 @@ The repository is organized as follows:
 | [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriramreddy-7/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sriramreddy-7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -85,6 +86,7 @@ The repository is organized as follows:
 | [0442-find-all-duplicates-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/sriramreddy-7/LeetCode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sriramreddy-7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/sriramreddy-7/LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -171,6 +173,7 @@ The repository is organized as follows:
 | [0451-sort-characters-by-frequency](https://github.com/sriramreddy-7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sriramreddy-7/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/sriramreddy-7/LeetCode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sriramreddy-7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/sriramreddy-7/LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
