@@ -58,6 +58,7 @@ The repository is organized as follows:
 | [1954-replace-all-digits-with-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/sriramreddy-7/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/sriramreddy-7/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sriramreddy-7/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sriramreddy-7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -143,6 +144,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/sriramreddy-7/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
