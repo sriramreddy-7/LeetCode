@@ -85,6 +85,7 @@ The repository is organized as follows:
 | [0035-search-insert-position](https://github.com/sriramreddy-7/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sriramreddy-7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriramreddy-7/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0414-third-maximum-number) |
@@ -163,6 +164,7 @@ The repository is organized as follows:
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
