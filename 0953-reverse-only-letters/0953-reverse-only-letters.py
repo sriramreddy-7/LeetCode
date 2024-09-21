@@ -1,6 +1,6 @@
 class Solution:
     def reverseOnlyLetters(self, s: str) -> str:
-        r=list(s)
+        r=[x for x in s]
         i=0
         j=len(s)-1
         while i<=j:
