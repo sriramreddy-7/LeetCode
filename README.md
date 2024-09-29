@@ -26,6 +26,7 @@ The repository is organized as follows:
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sriramreddy-7/LeetCode/tree/master/0383-ransom-note) |
@@ -167,6 +168,7 @@ The repository is organized as follows:
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -385,5 +387,6 @@ The repository is organized as follows:
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sriramreddy-7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
