@@ -97,6 +97,7 @@ The repository is organized as follows:
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sriramreddy-7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/sriramreddy-7/LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/sriramreddy-7/LeetCode/tree/master/0648-replace-words) |
+| [0724-find-pivot-index](https://github.com/sriramreddy-7/LeetCode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -391,4 +392,8 @@ The repository is organized as follows:
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sriramreddy-7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sriramreddy-7/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
