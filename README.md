@@ -66,6 +66,7 @@ The repository is organized as follows:
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sriramreddy-7/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sriramreddy-7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/sriramreddy-7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2235-capitalize-the-title](https://github.com/sriramreddy-7/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sriramreddy-7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -123,6 +124,7 @@ The repository is organized as follows:
 | [2132-convert-1d-array-into-2d-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2181-smallest-index-with-equal-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/sriramreddy-7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sriramreddy-7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -218,6 +220,7 @@ The repository is organized as follows:
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sriramreddy-7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/sriramreddy-7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -253,6 +256,7 @@ The repository is organized as follows:
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriramreddy-7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sriramreddy-7/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sriramreddy-7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/sriramreddy-7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/sriramreddy-7/LeetCode/tree/master/2486-most-frequent-even-element) |
