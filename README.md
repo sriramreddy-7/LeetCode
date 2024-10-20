@@ -75,6 +75,7 @@ The repository is organized as follows:
 | [2361-calculate-digit-sum-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/sriramreddy-7/LeetCode/tree/master/2401-count-asterisks) |
+| [2427-first-letter-to-appear-twice](https://github.com/sriramreddy-7/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/sriramreddy-7/LeetCode/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/sriramreddy-7/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -223,6 +224,7 @@ The repository is organized as follows:
 | [2190-count-common-words-with-one-occurrence](https://github.com/sriramreddy-7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/sriramreddy-7/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/sriramreddy-7/LeetCode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
@@ -259,6 +261,7 @@ The repository is organized as follows:
 | [2190-count-common-words-with-one-occurrence](https://github.com/sriramreddy-7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/sriramreddy-7/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/sriramreddy-7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sriramreddy-7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/sriramreddy-7/LeetCode/tree/master/3324-split-the-array) |
@@ -340,6 +343,7 @@ The repository is organized as follows:
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sriramreddy-7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2427-first-letter-to-appear-twice](https://github.com/sriramreddy-7/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Monotonic Stack
