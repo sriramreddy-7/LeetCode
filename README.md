@@ -51,6 +51,7 @@ The repository is organized as follows:
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/sriramreddy-7/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1542-consecutive-characters) |
 | [1660-thousand-separator](https://github.com/sriramreddy-7/LeetCode/tree/master/1660-thousand-separator) |
+| [1666-make-the-string-great](https://github.com/sriramreddy-7/LeetCode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sriramreddy-7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
@@ -155,6 +156,7 @@ The repository is organized as follows:
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sriramreddy-7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/sriramreddy-7/LeetCode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sriramreddy-7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
