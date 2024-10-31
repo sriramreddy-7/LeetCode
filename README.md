@@ -89,6 +89,7 @@ The repository is organized as follows:
 | [0033-search-in-rotated-sorted-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriramreddy-7/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sriramreddy-7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -176,6 +177,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -273,6 +275,7 @@ The repository is organized as follows:
 | ------- |
 | [0009-palindrome-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0189-rotate-array) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/sriramreddy-7/LeetCode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/1635-number-of-good-pairs) |
