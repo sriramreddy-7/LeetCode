@@ -122,6 +122,7 @@ The repository is organized as follows:
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1945-finding-the-users-active-minutes](https://github.com/sriramreddy-7/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2048-build-array-from-permutation](https://github.com/sriramreddy-7/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sriramreddy-7/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -164,6 +165,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
+| [2048-build-array-from-permutation](https://github.com/sriramreddy-7/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sriramreddy-7/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
