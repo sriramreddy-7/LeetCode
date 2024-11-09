@@ -104,6 +104,7 @@ The repository is organized as follows:
 | [0724-find-pivot-index](https://github.com/sriramreddy-7/LeetCode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/sriramreddy-7/LeetCode/tree/master/0898-transpose-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/sriramreddy-7/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0965-unique-email-addresses](https://github.com/sriramreddy-7/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -165,6 +166,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/sriramreddy-7/LeetCode/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/sriramreddy-7/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sriramreddy-7/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -406,6 +408,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/sriramreddy-7/LeetCode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String Matching
 |  |
