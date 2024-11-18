@@ -165,6 +165,7 @@ The repository is organized as follows:
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sriramreddy-7/LeetCode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sriramreddy-7/LeetCode/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/sriramreddy-7/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -281,6 +282,7 @@ The repository is organized as follows:
 | [0009-palindrome-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/sriramreddy-7/LeetCode/tree/master/0258-add-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/sriramreddy-7/LeetCode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -367,6 +369,7 @@ The repository is organized as follows:
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sriramreddy-7/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
