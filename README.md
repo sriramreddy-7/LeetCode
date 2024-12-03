@@ -91,6 +91,7 @@ The repository is organized as follows:
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sriramreddy-7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sriramreddy-7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriramreddy-7/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -200,6 +201,7 @@ The repository is organized as follows:
 | ------- |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sriramreddy-7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sriramreddy-7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriramreddy-7/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sriramreddy-7/LeetCode/tree/master/0383-ransom-note) |
@@ -297,6 +299,7 @@ The repository is organized as follows:
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sriramreddy-7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sriramreddy-7/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
