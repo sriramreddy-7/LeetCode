@@ -58,6 +58,7 @@ The repository is organized as follows:
 | [1751-slowest-key](https://github.com/sriramreddy-7/LeetCode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sriramreddy-7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/sriramreddy-7/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1894-merge-strings-alternately](https://github.com/sriramreddy-7/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/sriramreddy-7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -195,6 +196,7 @@ The repository is organized as follows:
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriramreddy-7/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/sriramreddy-7/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1894-merge-strings-alternately](https://github.com/sriramreddy-7/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sriramreddy-7/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sriramreddy-7/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
