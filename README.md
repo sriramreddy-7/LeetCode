@@ -50,6 +50,7 @@ The repository is organized as follows:
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/sriramreddy-7/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/sriramreddy-7/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1542-consecutive-characters) |
 | [1660-thousand-separator](https://github.com/sriramreddy-7/LeetCode/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/sriramreddy-7/LeetCode/tree/master/1666-make-the-string-great) |
@@ -429,4 +430,5 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sriramreddy-7/LeetCode/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
