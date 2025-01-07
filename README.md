@@ -50,6 +50,7 @@ The repository is organized as follows:
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/sriramreddy-7/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/sriramreddy-7/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1524-string-matching-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/sriramreddy-7/LeetCode/tree/master/1542-consecutive-characters) |
 | [1660-thousand-separator](https://github.com/sriramreddy-7/LeetCode/tree/master/1660-thousand-separator) |
@@ -119,6 +120,7 @@ The repository is organized as follows:
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/sriramreddy-7/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1524-string-matching-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sriramreddy-7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sriramreddy-7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -425,6 +427,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sriramreddy-7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Prefix Sum
 |  |
