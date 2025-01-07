@@ -141,6 +141,7 @@ The repository is organized as follows:
 | [2195-time-needed-to-buy-tickets](https://github.com/sriramreddy-7/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sriramreddy-7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/sriramreddy-7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sriramreddy-7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -243,6 +244,7 @@ The repository is organized as follows:
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sriramreddy-7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sriramreddy-7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/sriramreddy-7/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -281,6 +283,7 @@ The repository is organized as follows:
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sriramreddy-7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sriramreddy-7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sriramreddy-7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sriramreddy-7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sriramreddy-7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/sriramreddy-7/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
