@@ -26,6 +26,7 @@ The repository is organized as follows:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sriramreddy-7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sriramreddy-7/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0344-reverse-string) |
@@ -166,6 +167,7 @@ The repository is organized as follows:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sriramreddy-7/LeetCode/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sriramreddy-7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sriramreddy-7/LeetCode/tree/master/1666-make-the-string-great) |
