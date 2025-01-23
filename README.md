@@ -93,6 +93,7 @@ The repository is organized as follows:
 | [0004-median-of-two-sorted-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriramreddy-7/LeetCode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sriramreddy-7/LeetCode/tree/master/0217-contains-duplicate) |
@@ -371,6 +372,7 @@ The repository is organized as follows:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sriramreddy-7/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/sriramreddy-7/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/sriramreddy-7/LeetCode/tree/master/0861-flipping-an-image) |
