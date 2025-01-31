@@ -354,6 +354,7 @@ The repository is organized as follows:
 | [0035-search-insert-position](https://github.com/sriramreddy-7/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriramreddy-7/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/sriramreddy-7/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sriramreddy-7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ordered Set
@@ -445,4 +446,8 @@ The repository is organized as follows:
 | ------- |
 | [0724-find-pivot-index](https://github.com/sriramreddy-7/LeetCode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sriramreddy-7/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
