@@ -195,6 +195,7 @@ The repository is organized as follows:
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sriramreddy-7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -211,6 +212,7 @@ The repository is organized as follows:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sriramreddy-7/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sriramreddy-7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sriramreddy-7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sriramreddy-7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -299,6 +301,7 @@ The repository is organized as follows:
 | [0009-palindrome-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sriramreddy-7/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sriramreddy-7/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sriramreddy-7/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sriramreddy-7/LeetCode/tree/master/0258-add-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sriramreddy-7/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/sriramreddy-7/LeetCode/tree/master/1500-count-largest-group) |
